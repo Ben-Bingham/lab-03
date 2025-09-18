@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-customize ArrayAdapter and Fragments code & walkthrough, found on Canvas
+customize ArrayAdapter and Fragments code & walkthrough, found on CMPUT 301 website: https://ualberta-cmput301.github.io/labs/lab3_inst.html
 
 
 The code I wrote for Lab 2: https://github.com/Ben-Bingham/lab-02
