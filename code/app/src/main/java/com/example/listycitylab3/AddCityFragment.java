@@ -27,7 +27,6 @@ public class AddCityFragment extends DialogFragment {
         } else {
             throw new RuntimeException(context + " must implement AddCityDialogListener");
         }
-
     }
 
     @NonNull
